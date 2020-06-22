@@ -1,0 +1,3 @@
+[console_scripts]
+test = hyper2_python.test:main
+
